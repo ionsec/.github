@@ -7,9 +7,9 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/ionsec.io-0B0F14?style=flat-square&logo=googlechrome&logoColor=2DD4BF)](https://ionsec.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B0F14?style=flat-square&logo=linkedin&logoColor=2DD4BF)](https://linkedin.com/company/ionsec)
-[![Contact](https://img.shields.io/badge/info@ionsec.io-0B0F14?style=flat-square&logo=maildotru&logoColor=2DD4BF)](mailto:info@ionsec.io)
+[![Website](https://img.shields.io/badge/ionsec.io-0a0a0f?style=flat-square&logo=googlechrome&logoColor=e63946)](https://ionsec.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0f?style=flat-square&logo=linkedin&logoColor=e63946)](https://linkedin.com/company/ionsec)
+[![Contact](https://img.shields.io/badge/info@ionsec.io-0a0a0f?style=flat-square&logo=maildotru&logoColor=e63946)](mailto:info@ionsec.io)
 
 </div>
 
@@ -23,14 +23,14 @@ tooling our analysts actually use during investigations.
 
 | Project | What it is | |
 |---|---|---|
-| **[maes-platform](https://github.com/ionsec/maes-platform)** | M365 Analyzer & Extractor Suite — collection and analysis for Microsoft 365 investigations | [![stars](https://img.shields.io/github/stars/ionsec/maes-platform?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/maes-platform) |
-| **[OpenClaw-Threat-Intel](https://github.com/ionsec/OpenClaw-Threat-Intel)** | Multi-source threat-intelligence enrichment for incident response | [![stars](https://img.shields.io/github/stars/ionsec/OpenClaw-Threat-Intel?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/OpenClaw-Threat-Intel) |
-| **[FlareInspect](https://github.com/ionsec/FlareInspect)** | Cloudflare security assessment — CLI and local dashboard | [![stars](https://img.shields.io/github/stars/ionsec/FlareInspect?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/FlareInspect) |
-| **[Forti-DFIR](https://github.com/ionsec/Forti-DFIR)** | Fortinet VPN and firewall log parser for investigations | [![stars](https://img.shields.io/github/stars/ionsec/Forti-DFIR?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/Forti-DFIR) |
-| **[remnux-malware-triage](https://github.com/ionsec/remnux-malware-triage)** | Triage-first malware analysis workflow for REMnux | [![stars](https://img.shields.io/github/stars/ionsec/remnux-malware-triage?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/remnux-malware-triage) |
-| **[RansomProtect](https://github.com/ionsec/RansomProtect)** | Detects and blocks ransomware early in the infection chain | [![stars](https://img.shields.io/github/stars/ionsec/RansomProtect?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/RansomProtect) |
-| **[DO-Audit-Log-Scraper](https://github.com/ionsec/DO-Audit-Log-Scraper)** | Forensic export of DigitalOcean audit logs, which have no vendor API | [![stars](https://img.shields.io/github/stars/ionsec/DO-Audit-Log-Scraper?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/DO-Audit-Log-Scraper) |
-| **[Tikun13checker](https://github.com/ionsec/Tikun13checker)** | Readiness simulator for Amendment 13 to Israel's Privacy Protection Law | [![stars](https://img.shields.io/github/stars/ionsec/Tikun13checker?style=flat-square&label=&color=2DD4BF)](https://github.com/ionsec/Tikun13checker) |
+| **[maes-platform](https://github.com/ionsec/maes-platform)** | M365 Analyzer & Extractor Suite — collection and analysis for Microsoft 365 investigations | [![stars](https://img.shields.io/github/stars/ionsec/maes-platform?style=flat-square&label=&color=e63946)](https://github.com/ionsec/maes-platform) |
+| **[OpenClaw-Threat-Intel](https://github.com/ionsec/OpenClaw-Threat-Intel)** | Multi-source threat-intelligence enrichment for incident response | [![stars](https://img.shields.io/github/stars/ionsec/OpenClaw-Threat-Intel?style=flat-square&label=&color=e63946)](https://github.com/ionsec/OpenClaw-Threat-Intel) |
+| **[FlareInspect](https://github.com/ionsec/FlareInspect)** | Cloudflare security assessment — CLI and local dashboard | [![stars](https://img.shields.io/github/stars/ionsec/FlareInspect?style=flat-square&label=&color=e63946)](https://github.com/ionsec/FlareInspect) |
+| **[Forti-DFIR](https://github.com/ionsec/Forti-DFIR)** | Fortinet VPN and firewall log parser for investigations | [![stars](https://img.shields.io/github/stars/ionsec/Forti-DFIR?style=flat-square&label=&color=e63946)](https://github.com/ionsec/Forti-DFIR) |
+| **[remnux-malware-triage](https://github.com/ionsec/remnux-malware-triage)** | Triage-first malware analysis workflow for REMnux | [![stars](https://img.shields.io/github/stars/ionsec/remnux-malware-triage?style=flat-square&label=&color=e63946)](https://github.com/ionsec/remnux-malware-triage) |
+| **[RansomProtect](https://github.com/ionsec/RansomProtect)** | Detects and blocks ransomware early in the infection chain | [![stars](https://img.shields.io/github/stars/ionsec/RansomProtect?style=flat-square&label=&color=e63946)](https://github.com/ionsec/RansomProtect) |
+| **[DO-Audit-Log-Scraper](https://github.com/ionsec/DO-Audit-Log-Scraper)** | Forensic export of DigitalOcean audit logs, which have no vendor API | [![stars](https://img.shields.io/github/stars/ionsec/DO-Audit-Log-Scraper?style=flat-square&label=&color=e63946)](https://github.com/ionsec/DO-Audit-Log-Scraper) |
+| **[Tikun13checker](https://github.com/ionsec/Tikun13checker)** | Readiness simulator for Amendment 13 to Israel's Privacy Protection Law | [![stars](https://img.shields.io/github/stars/ionsec/Tikun13checker?style=flat-square&label=&color=e63946)](https://github.com/ionsec/Tikun13checker) |
 
 We also maintain internal forks of [web-check](https://github.com/ionsec/web-check) and
 [ESXiTri](https://github.com/ionsec/ESXiTri) for use in engagements.
