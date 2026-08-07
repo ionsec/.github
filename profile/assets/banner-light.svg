@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="IONSEC — Be Prepared. Stay Resilient. Respond with Confidence.">
+  <rect x="0" y="0" width="1200" height="260" fill="#FFFFFF"/>
+
+  <!-- corner ticks -->
+  <g stroke="#D8DEE4" stroke-width="2" fill="none">
+    <path d="M24 24 h28 M24 24 v28"/>
+    <path d="M1176 24 h-28 M1176 24 v28"/>
+    <path d="M24 236 h28 M24 236 v-28"/>
+    <path d="M1176 236 h-28 M1176 236 v-28"/>
+  </g>
+
+  <!-- shield glyph -->
+  <g transform="translate(76,66)">
+    <path d="M64 0 L124 22 V70 C124 106 98 128 64 140 C30 128 4 106 4 70 V22 Z"
+          fill="none" stroke="#0D9488" stroke-width="3"/>
+    <path d="M64 12 L112 30 V70 C112 99 92 117 64 127 C36 117 16 99 16 70 V30 Z"
+          fill="#F2F6F7"/>
+    <!-- pulse -->
+    <path d="M26 74 H48 L58 50 L70 96 L80 74 H102"
+          fill="none" stroke="#0D9488" stroke-width="5"
+          stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="248" y="108"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="76" font-weight="700" letter-spacing="10" fill="#0B0F14">IONSEC</text>
+
+  <!-- rule -->
+  <rect x="250" y="132" width="120" height="3" fill="#0D9488"/>
+  <rect x="382" y="133" width="560" height="1" fill="#D8DEE4"/>
+
+  <!-- tagline -->
+  <text x="250" y="172"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="25" font-weight="400" letter-spacing="1" fill="#44525F">Be Prepared. Stay Resilient. Respond with Confidence.</text>
+
+  <!-- meta line -->
+  <text x="250" y="206"
+        font-family="SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="17" letter-spacing="2" fill="#7A8894">DFIR &#183; IT / OT / IoT &#183; ISRAEL-BASED, GLOBAL</text>
+</svg>
